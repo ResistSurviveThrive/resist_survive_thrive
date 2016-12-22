@@ -1,0 +1,19 @@
+{
+  "name": "resist_survive_thrive",
+  "version": "1.0.0",
+  "description": "Resist Survive Thrive: An Illustrated Manual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResistSurviveThrive/resist_survive_thrive.git"
+  },
+  "author": "Brian Shirai",
+  "license": "CC-BY-NC-ND 4.0 - https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "bugs": {
+    "url": "https://github.com/ResistSurviveThrive/resist_survive_thrive/issues"
+  },
+  "homepage": "https://resistsurvivethrive.com"
+}
