@@ -4,3 +4,6 @@
 * [Part 2 - My Friends and Family](manuscript/part_2.md)
 * [Part 3 - My Neighborhood, My City, My Society](manuscript/part_3.md)
 * [Part 4 - My World](manuscript/part_4.md)
+* [Glossary](GLOSSARY.md)
+* [Notes](manuscript/notes.md)
+* [References](manuscript/references.md)
