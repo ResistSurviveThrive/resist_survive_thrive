@@ -14,7 +14,7 @@ Participation in this project is governed by the [Contributor Covenant, version 
 
 ## How to Contribute
 
-Your suggestions for resources or changes to the text are welcomed. There are two ways to make suggestions: 1. [Open an issue](https://github.com/ResistSurviveThrive/resist_survive_thrive/issues) suggesting a resource or describing a change to the text; or 2. [make a copy](https://help.github.com/articles/fork-a-repo/) of the book's source, [make the changes](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/) you want to suggest, and [send a request](https://help.github.com/articles/creating-a-pull-request/) to include those changes in the book.
+Your suggestions for resources or changes to the text are welcomed and appreciated. There are two ways to make suggestions: 1. [Open an issue](https://github.com/ResistSurviveThrive/resist_survive_thrive/issues) suggesting a resource or describing a change to the text; or 2. [make a copy](https://help.github.com/articles/fork-a-repo/) of the book's source, [make the changes](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/) you want to suggest, and [send a request](https://help.github.com/articles/creating-a-pull-request/) to include those changes in the book.
 
 You can also tweet suggestions to [@ResistSurvive](https://twitter.com/ResistSurvive).
 
