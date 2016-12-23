@@ -6,14 +6,15 @@ rvm: 2.3.1
 before_script:
 - sudo apt-get update
 - sudo apt-get install awscli
-script: bundle exec jekyll build
+- npm install gitbook-cli
+script: gitbook build
 branches:
   only:
   - master
   - "/^v\\d+\\./"
 after_success:
 - ./scripts/aws_credentials.sh
-- aws s3 sync public/ s3://resistsurvivethrive-com --delete --region us-west-2
+- aws s3 sync _book/ s3://resistsurvivethrive-com --delete --region us-west-2
 notifications:
   email: false
   irc: false
