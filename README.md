@@ -6,7 +6,7 @@ This is a hopeful book about a brighter future. It tries to bring everything we 
 
 If you look around at the state of your world and ask, "But, *what* can we do?", here are some ideas.
 
-Start by reading the Preface.
+Start by reading the [Preface](https://resistsurvivethrive.com/manuscript/preface.html).
 
 ## Code of Conduct
 
