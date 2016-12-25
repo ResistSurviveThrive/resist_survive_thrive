@@ -14,7 +14,7 @@ branches:
   - "/^v\\d+\\./"
 after_success:
 - "./scripts/aws_credentials.sh"
-- aws s3 sync _book/ s3://resistsurvivethrive-com --delete --region us-west-2
+- aws s3 sync _book/ s3://resistsurvivethrive-com --delete --region us-west-2 --cache-control "max-age=3600"
 notifications:
   email: false
   irc: false
