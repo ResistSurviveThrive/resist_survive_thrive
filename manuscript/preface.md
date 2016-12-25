@@ -38,20 +38,24 @@ Resistance starts in your mind.
 
   > Sometimes the questions are complicated and the answers are simple &mdash; Dr. Seuss
 
+1. **Choose to be a realistic optimist.**
+
 > All the forces in the world are not so powerful as an idea whose time has come. &mdash; Victor Hugo
 
 > Take what you can use and let the rest go by. &mdash; Ken Kesey
 
 > Nothing pleases people more than to go on thinking what they have always thought, and at the same time imagine that they are thinking something new and daring; it combines the advantage of security with the delight of adventure &mdash; TS Eliot
 
-## Organization of This Book
-
-*Part 1 - Me, Myself, and I*
-*Part 2 - My Friends and Family*
-*Part 3 - My Neighborhood, My City, My Society*
-*Part 4 - My World*
+## Why This Book?
 
 ## Audience for This Book
+
+## Organization of This Book
+
+* *Part 1 - Me, Myself, and I*
+* *Part 2 - My Friends and Family*
+* *Part 3 - My Neighborhood, My City, My Society*
+* *Part 4 - My World*
 
 ## Conventions for This Book
 
