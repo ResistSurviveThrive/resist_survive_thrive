@@ -1,3 +1,1 @@
-# Dedication
-
 *For the children.*

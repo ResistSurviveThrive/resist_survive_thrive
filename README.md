@@ -1,16 +1,14 @@
 # Resist Survive Thrive: An Illustrated Manual
 
-> Those who control the present, control the past and those who control the past control the future. &mdash; George Orwell, 1984
-
-This is a hopeful book about a brighter future. It tries to bring everything we know from the past that can help us build that future right now, in the present.
+This is a hopeful book about a brighter future. It tries to bring things we know from the past to help us build that future right now, in the present. In other words, a lot of what we need to know is already here right now.
 
 If you look around at the state of your world and ask, "But, *what* can we do?", here are some ideas.
 
-Start by reading the [Preface](https://resistsurvivethrive.com/manuscript/preface.html).
+Begin the book by reading the [Preface](/manuscript/preface.md).
 
 ## Code of Conduct
 
-Participation in this project is governed by the [Contributor Covenant, version 1.4](http://contributor-covenant.org/version/1/4/). See code-of-conduct.md.
+Participation in this project is governed by the [Contributor Covenant, version 1.4](http://contributor-covenant.org/version/1/4/). See [Code of Conduct](/manuscript/code-of-conduct.md).
 
 ## How to Contribute
 
