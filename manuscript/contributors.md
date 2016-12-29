@@ -4,7 +4,7 @@ Many people have generously shared their time to discuss this book, suggest reso
 
 Contributors names are listed below approximately in chronological order. Entries of "Anonymous" represent a person who is unable to list their name or prefers to withhold it. Their contributions are every bit as important and appreciated.
 
-Anonymous
-Tabitha Calhoun
-Kara Western
-Chelsea Lancaster
+* Anonymous
+* Tabitha Calhoun
+* Kara Western
+* Chelsea Lancaster
