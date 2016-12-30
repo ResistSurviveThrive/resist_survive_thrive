@@ -1,6 +1,8 @@
 # Resist Survive Thrive: An Illustrated Manual
 
-This is a hopeful book about a brighter future. It tries to bring things we know from the past to help us build that future right now, in the present. In other words, a lot of what we need to know is already here right now.
+> Those who control the present, control the past and those who control the past control the future. &mdash; George Orwell, 1984
+
+This is a hopeful book about a brighter future, one where everyone experiences health, freedom, equality, and justice. It is the past that contains the seeds of this brighter future. We already know much of what we need. More importantly, we know how to learn what we don't yet know. The most important thing now is to put what we know into action.
 
 If you look around at the state of your world and ask, "But, *what* can we do?", here are some ideas.
 
