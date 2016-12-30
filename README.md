@@ -12,6 +12,12 @@ Begin the book by reading the [Preface](/manuscript/preface.md).
 
 Participation in this project is governed by the [Contributor Covenant, version 1.4](http://contributor-covenant.org/version/1/4/). See [Code of Conduct](/manuscript/code-of-conduct.md).
 
+## Your Safety
+
+If you are reading this book at the website, [https://resistsurvivethrive.com](https://resistsurvivethrive.com), we are using SSL/TLS to help keep your browsing secure and we do not store any logs of your access to the website.
+
+If you have suggesstions for improving safeguards for people who access this content, please see *How to Contribute*.
+
 ## How to Contribute
 
 Your suggestions for resources or changes to the text are welcomed and appreciated. There are two ways to make suggestions: 1. [Open an issue](https://github.com/ResistSurviveThrive/resist_survive_thrive/issues) suggesting a resource or describing a change to the text; or 2. [make a copy](https://help.github.com/articles/fork-a-repo/) of the book's source, [make the changes](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/) you want to suggest, and [send a request](https://help.github.com/articles/creating-a-pull-request/) to include those changes in the book.
