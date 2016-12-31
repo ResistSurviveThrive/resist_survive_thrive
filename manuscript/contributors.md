@@ -8,3 +8,4 @@ Contributors names are listed below approximately in chronological order. Entrie
 * Tabitha Calhoun
 * Kara Western
 * Chelsea Lancaster
+* Stephanie Scelza

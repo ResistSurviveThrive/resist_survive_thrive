@@ -9,6 +9,7 @@ Resistance starts in your mind.
 1. **Choose a north star. Look outside yourself.**
 
 1. **Don't become the thing you resist.**
+
 1. **Study nonviolence.**
 1. **Don't do it for power. Do it for the benefit.**
 
@@ -75,7 +76,7 @@ Resistance starts in your mind.
   <li><em>Rituals That Bind Us</em></li>
   <li><em>Nurturing Growth</em></li>
   <li><em>Someone To Talk To</em></li>
-  <li><em>What's On The Inside</em></li>
+  <li><em>What's On The Inside?</em></li>
   <li><em>Hurt By The One You Love</em></li>
 </ol>
 
@@ -96,7 +97,7 @@ Resistance starts in your mind.
 
 <ol start="24">
   <li><em>Globalization</em></li>
-  <li><em>Climate change</em></li>
+  <li><em>Climate Change</em></li>
   <li><em>Environment</em></li>
   <li><em>Nations and Laws</em></li>
   <li><em>Nonproliferation</em></li>
